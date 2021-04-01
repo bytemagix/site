@@ -1,0 +1,15 @@
+.bottom_view{
+    background-color: #333;
+    min-height: 20vh;
+    margin-top: 30px;
+}
+
+.bottom_view div{
+    color: white;
+    padding: 10px;
+}
+
+i{
+    margin-left: 10px;
+    width: 30px;
+}
